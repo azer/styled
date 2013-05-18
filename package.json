@@ -1,0 +1,27 @@
+{
+  "name": "styled",
+  "version": "0.0.0",
+  "description": "the console styling/colorization library that does only one thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "colorization",
+    "styling",
+    "style",
+    "format",
+    "ansi"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/styled.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "ansi-codes": "0.0.0"
+  }
+}
