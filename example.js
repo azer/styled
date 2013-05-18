@@ -9,7 +9,9 @@ text += styled.greenBg(styled.yellow( styled.bold( 'bold yellow and green bg' ) 
 
 text += styled('bold red whiteBg', 'same thing with styled function') + ' and ';
 
-text += styled.blink('blink') + ' and';
+text += styled.blink('blink') + ' and ';
+
+text += styled.grey('grey') + ' and ';
 
 text += 'end';
 

@@ -22,6 +22,6 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "ansi-codes": "0.0.0"
+    "ansi-codes": "*"
   }
 }
