@@ -4,7 +4,7 @@ the console styling library that does only one thing
 
 ## Usage
 
-It exposes a method for all attributes of [ansi-codes](http://github.com/azer/ansi-codes)
+It defines a method everything exported by [ansi-codes](http://github.com/azer/ansi-codes)
 
 ```js
 styled.bold('foo')
