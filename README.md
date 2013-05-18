@@ -21,7 +21,13 @@ styled('bold yellow greenBg', 'hello!!')
 Can be also written as:
 
 ```js
-styled('.bold.yellow.greenBg', 'hello!!')
+styled('bold, yellow, greenBg', 'hello!!')
+```
+
+Or
+
+```js
+styled('.bold .yellow .greenBg', 'hello!!')
 ```
 
 ## Install
