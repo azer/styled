@@ -4,7 +4,7 @@
   "description": "the console styling/colorization library that does only one thing",
   "main": "index.js",
   "scripts": {
-    "test": "fox"
+    "test": "prova"
   },
   "keywords": [
     "colors",
